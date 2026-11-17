@@ -1,6 +1,7 @@
+<img width="736" height="793" alt="yotsuba" src="https://github.com/user-attachments/assets/f46415cf-3f73-4d3a-ae74-e2d67bac3b5b" />
 # mavridalisalimbekov
 
-![literally me]("images\yotsuba.jpg")
+<img width="736" height="793" alt="yotsuba" src="https://github.com/user-attachments/assets/f46415cf-3f73-4d3a-ae74-e2d67bac3b5b" />
 
 Soffware Enginyeew. (˶>⩊<˶)
 
