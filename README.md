@@ -1,6 +1,6 @@
 # mavridalisalimbekov
 
-![literally me]("C:\Users\ivang\Downloads\yotsuba.jpg")
+![literally me]("[C:\Users\ivang\Downloads\yotsuba.jpg](https://pin.it/lyXLC98n4)")
 
 Soffware Enginyeew. (˶>⩊<˶)
 
