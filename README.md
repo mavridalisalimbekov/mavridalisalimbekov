@@ -1,4 +1,3 @@
-<img width="736" height="793" alt="yotsuba" src="https://github.com/user-attachments/assets/f46415cf-3f73-4d3a-ae74-e2d67bac3b5b" />
 # mavridalisalimbekov
 
 <img width="736" height="793" alt="yotsuba" src="https://github.com/user-attachments/assets/f46415cf-3f73-4d3a-ae74-e2d67bac3b5b" />
