@@ -1,6 +1,6 @@
 # mavridalisalimbekov
 
-![literally me]("images/yotsuba.jpg")
+![literally me]("images\yotsuba.jpg")
 
 Soffware Enginyeew. (˶>⩊<˶)
 
